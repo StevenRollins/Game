@@ -1,0 +1,46 @@
+rlg327
+
+Uses Sheaffers 1.09 solution
+
+implements ranged combat
+'v' to aim
+'g' or '.' to shoot
+can shoot at characters that can be seen
+
+'W' to enter build walls
+walls built have a hardness of 40
+numbers to pick where walls are built
+'5' to cancle
+
+object_desc.txt has a ranged weapon added to it
+
+rlg327.cpp
+heap.h
+heap.cpp
+macros.h
+dims.h
+dungeon.cpp
+dungeon.h
+path.cpp
+path.h
+utils.cpp
+utils.h
+character.cpp
+character.h
+event.cpp
+event.h
+move.cpp
+move.h
+npc.cpp
+npc.h
+pc.cpp
+pc.h
+io.cpp
+io.h
+descriptions.cpp
+descriptions.h
+dice.cpp
+dice.h
+
+Makefile
+changelog

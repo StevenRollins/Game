@@ -1,0 +1,71 @@
+#Changelog
+
+all important changes to this project will be added to this changelog
+
+### Fixed 4/27/2022
+-Fixed issues with running new ncurses version 6.3-2
+
+### Added 12/3/2018
+-wall building
+
+### Added 12/2/2018
+-Sheaffers code from 1.09
+-ranged combat
+
+### Added 11/7/2018
+-Sheaffers code from 1.07
+
+### Added 10/31/2018
+-Sheaffers code from 1.05
+-parsing file for monsters info
+
+### Added 10/24/2018
+- fog of war
+
+### Added 10/23/2018
+- teleportation
+
+### 10/23/2018
+- change to C++
+
+### Added 10/23/2018
+- Sheaffers code from 1.05
+
+### 10/16/2018
+-Added control over player movement and monster list	
+
+### Added 10/15/2018
+-Added -lncurses to Makefile
+
+### Added 10/15/2018
+- Sheaffers code from 1.04	
+	
+### Added 10/3/2018
+-Monsters and -nummon switch
+
+### Added 10/3/2018
+- Sheaffers code from 1.03
+	
+### Added 9/26/2018
+-Player Character location no randomly generated
+
+### Added 9/26/2018
+-distance map prints for tunneling and non tunneling monsters
+	
+### Added 9/25/2018
+-player character prints as'@'
+
+### Added 9/25/2018
+-removed Dungeon.c
+-Sheaffers code from 1.02
+
+### Added 9/12/2018
+-ability to open and save dungeon
+
+### Fixed 9/6/2018
+-Segmentation fault.
+
+### Added 9/5/2018
+-This Changelog
+-README
+-Dungeon.c
